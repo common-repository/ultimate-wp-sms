@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.995" height="17.994" viewBox="0 0 13.995 17.994">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6a6a;
+      }
+    </style>
+  </defs>
+  <path id="icon_delete" class="cls-1" d="M5.583,18.745a2.005,2.005,0,0,0,2,2h8a2.005,2.005,0,0,0,2-2v-12h-12Zm13-14.995h-3.5l-1-1h-5l-1,1h-3.5v2h14Z" transform="translate(-4.583 -2.75)"/>
+</svg>

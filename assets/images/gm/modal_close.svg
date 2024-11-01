@@ -1,0 +1,10 @@
+<svg id="icon_cancel" data-name="icon cancel" xmlns="http://www.w3.org/2000/svg" width="34.529" height="34.529" viewBox="0 0 34.529 34.529">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e2327;
+      }
+    </style>
+  </defs>
+  <path id="Icon_metro-cancel" data-name="Icon metro-cancel" class="cls-1" d="M19.835,1.928A17.265,17.265,0,1,0,37.1,19.193,17.265,17.265,0,0,0,19.835,1.928Zm0,31.292A14.028,14.028,0,1,1,33.863,19.193,14.028,14.028,0,0,1,19.835,33.22Zm5.4-22.66-5.4,5.4-5.4-5.4L11.2,13.8l5.4,5.4-5.4,5.4,3.237,3.237,5.4-5.4,5.4,5.4,3.237-3.237-5.4-5.4,5.4-5.4Z" transform="translate(37.1 36.457) rotate(180)"/>
+</svg>
